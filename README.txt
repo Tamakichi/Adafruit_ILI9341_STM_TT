@@ -1,3 +1,8 @@
+2017/08/13 Adafruit_ILI9341_STMよりクラス名を変更し、SPI2対応
+
+以下は元のREADMEです.
+----
+
 It has minor modifications to support STM32. It has been tested with the Maple Mini.
 Further modifications to support DMA transfers in the STM32F1xx by Victor Perez 3/17/2015
 
