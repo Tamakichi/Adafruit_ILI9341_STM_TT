@@ -1,5 +1,8 @@
 2017/08/13 Adafruit_ILI9341_STMよりクラス名を変更し、SPI2対応
 
+オリジナル版
+https://github.com/rogerclarkmelbourne/Arduino_STM32/tree/master/STM32F1/libraries/Adafruit_ILI9341_STM
+
 以下は元のREADMEです.
 ----
 
